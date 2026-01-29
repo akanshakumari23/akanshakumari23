@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akansha</h1>
+<h3 align="center">B.Tech EE @ MNNIT Allahabad | Full-Stack Developer | DSA Enthusiast</h3>
 
-<!--
-**akanshakumari23/akanshakumari23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/akanshakumari23">
+    <img src="https://komarev.com/ghpvc/?username=akanshakumari23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **B.Tech in Electronics & Communication Engineering** at **NIT Kurukshetra (2023–2027)**
+- 📊 **CGPA:** 8.99 / 10  
+- 💻 Solved **650+ DSA problems** across platforms  
+- 🌐 Passionate about **Web Development & Algorithms**
+- 🧠 Strong foundation in **DSA, OOP, and Problem Solving**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📌 Featured Projects
+
+### 💰 Penny Pilot
+**Full-stack personal finance web app**
+- Expense tracking, budgeting & savings goals
+- **Tech:** Next.js, Supabase, Prisma, Tailwind, Shadcn UI
+
+### 📰 News Headline Website
+- Real-time news using public APIs
+- Fully responsive UI
+- **Tech:** React, JavaScript, Bootstrap
+
+### 🎮 Hand Detection Air Hockey Game
+- Gesture-controlled game using computer vision
+- **Tech:** Python, OpenCV, NumPy, Matplotlib
+
+---
+
+## 🧑‍💼 Experience
+**Intern – SS GAS LAB AISA (Summer 2025)**
+- Sensor calibration & testing
+- Signal processing & circuit design (ADC, amplifiers, transducers)
+
+---
+
+## 🏆 Achievements
+- 🧠 Solved **650+ DSA problems**
+- 🥉 **CBSE Class XII – School 3rd Topper**
+- 🎯 Active member of **Microbus Society, EMR Club & Antariksh Society**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aanshikesh&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aanshikesh&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **sbrawat790@gmail.com**
+- 🔗 LinkedIn: **https://linkedin.com/in/aanshikesh-rawat/**
+- 🌐 GitHub: **https://github.com/Aanshikesh**
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
