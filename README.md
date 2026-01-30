@@ -10,9 +10,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **B.Tech in Electronics & Communication Engineering** at **NIT Kurukshetra (2023–2027)**
-- 📊 **CGPA:** 8.99 / 10  
-- 💻 Solved **650+ DSA problems** across platforms  
+- 🎓 **B.Tech in Electrical Engineering** at **MNNIT ALLAHABAD(2024–2028)** 
+- 💻 Solved **550+ DSA problems** across platforms  
 - 🌐 Passionate about **Web Development & Algorithms**
 - 🧠 Strong foundation in **DSA, OOP, and Problem Solving**
 
@@ -58,17 +57,11 @@
 
 ---
 
-## 🧑‍💼 Experience
-**Intern – SS GAS LAB AISA (Summer 2025)**
-- Sensor calibration & testing
-- Signal processing & circuit design (ADC, amplifiers, transducers)
-
----
 
 ## 🏆 Achievements
-- 🧠 Solved **650+ DSA problems**
-- 🥉 **CBSE Class XII – School 3rd Topper**
-- 🎯 Active member of **Microbus Society, EMR Club & Antariksh Society**
+- 🧠 Solved **550+ DSA problems**
+- 🥉 **CBSE Class XII – School Topper**
+
 
 ---
 
@@ -81,9 +74,9 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **sbrawat790@gmail.com**
-- 🔗 LinkedIn: **https://linkedin.com/in/aanshikesh-rawat/**
-- 🌐 GitHub: **https://github.com/Aanshikesh**
+- 📧 Email: **akanshakumari981132@gmail.com**
+- 🔗 LinkedIn: **https://leetcode.com/u/Akansha_kumari_2028/**
+- 🌐 GitHub: **https://github.com/akanshakumari23/**
 
 ---
 
