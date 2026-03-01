@@ -75,7 +75,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: **akanshakumari981132@gmail.com**
-- 🔗 LinkedIn: **https://leetcode.com/u/Akansha_kumari_2028/**
+- 🔗 LinkedIn: **www.linkedin.com/in/akansha9891**
 - 🌐 GitHub: **https://github.com/akanshakumari23/**
 
 ---
