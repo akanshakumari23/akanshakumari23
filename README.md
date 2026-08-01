@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 - 🎓 **B.Tech in Electrical Engineering** at **MNNIT ALLAHABAD(2024–2028)** 
-- 💻 Solved **550+ DSA problems** across platforms  
+- 💻 Solved **1000+ DSA problems** across platforms  
 - 🌐 Passionate about **Web Development & Algorithms**
 - 🧠 Strong foundation in **DSA, OOP, and Problem Solving**
 
